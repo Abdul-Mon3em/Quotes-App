@@ -1,0 +1,31 @@
+body,
+html {
+  font-family: "Times New Roman", Times, serif;
+
+} 
+
+.title {
+  font-weight: 700;
+  font-size: 80px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.subtitle, p {
+  font-weight: 400;
+  font-size: 35px;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+.btn-custom {
+    background-color: #0000ff; 
+    color: white;
+    font-size: 1rem;
+    padding: 24px 80px;
+    transition: all;
+}
+
+.btn-custom:hover {
+    background-color: #008000; 
+}
